@@ -35,7 +35,7 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
   ```
   <img src="https://github.com/CapSOSkw/My_VPN/blob/master/pic/Screen%20Shot%202018-10-29%20at%2017.59.03.png" alt="pic2" width="600"/>
 </li>  
-<li>Following the instructions, you will set up port (0~2333), encryption method， password, etc. And VPN is ready!</li>
+<li>Following the instructions, you will set up port (0~2333), encryption method, password, etc. Once all parameters setup, VPN is ready!</li>
 <li>For Windows users, download SSR client from <a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">"Windows SSR client"</a>.</li>
 <li>For OSX users, download SSR client from <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases">"MAC SSR client"</a>.</li>
 </ol>
