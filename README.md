@@ -40,3 +40,9 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 <li>For OSX users, download SSR client from <a href="https://github.com/shadowsocks/ShadowsocksX-NG/releases">"MAC SSR client"</a>.</li>
 </ol>
 
+Added on 02/14/2019:
+With CentOS 6 intalled on BandwagonHost, we can activate hidden modes which are shadowsocks and shadowsocks from bandwagon itself by using following urls:
+  ShadowSocks: https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks
+  ShadowSocksR:https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocksR
+  .
+
